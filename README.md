@@ -43,4 +43,4 @@
 2. 克隆此仓库：
 
    ```bash
-   git clone (https://github.com/Sunshine6153/Onani_demo.git)
+   git clone https://github.com/Sunshine6153/Onani_demo.git
