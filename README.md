@@ -26,7 +26,10 @@
 
 > Windows用户可以直接下载打包好的版本：
 
-- [📥 Windows 下载](#)  暂无下载链接
+- [📥 Windows 下载](#)
+- 通过网盘分享的文件：期末周的欧娜尼-1.0-pc.zip
+链接: https://pan.baidu.com/s/1kf8LK4tRjJfIp4E_fZ0wUA
+提取码: s2bk
 
 下载后解压，运行 `Game.exe`（Windows）或等效启动文件即可。
 
