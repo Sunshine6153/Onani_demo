@@ -1,0 +1,46 @@
+# Directories that Ren'Py changes files in.
+/game/saves
+/game/cache
+
+# Compiled script files. These are important for saving, and so should
+# be preserved by developer and build systems after the game has been released.
+/game/**/*.rpyc
+/game/**/*.rpymc
+
+# Files Ren'Py can generate.
+/game/**/*.bak
+/game/**/*.new
+/game/**/*.old
+
+# Error, log, and output files.
+/errors.txt
+/files.txt
+/image_cache.txt
+/log.txt
+/save_dump.txt
+/traceback.txt
+
+# Launcher-generated files.
+/dialogue.tab
+/dialogue.txt
+/strings.json
+
+# 构建输出目录（Ren'Py 打包后的游戏）
+build/
+dist/
+
+# 存档与持久数据
+persistent
+*.save
+
+# Python 缓存
+__pycache__/
+
+# 编辑器配置（可选）
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
